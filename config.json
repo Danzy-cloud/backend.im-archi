@@ -1,8 +1,8 @@
 {
   "ws_url": "ws://34.229.109.37/ws",
   "repo_url": "http://3.91.51.37/backend.im-archi/backendim-fastapi-app-archi",
-  "user_id": "user-14",
-  "chat_id": "chat-14",
+  "user_id": "DanielAzeez",
+  "chat_id": "DanielChat1",
   "test_command": "pytest tests/",
   "project_type": "fastapi",
   "commits": [
